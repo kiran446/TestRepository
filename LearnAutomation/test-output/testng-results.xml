@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73" started-at="2016-06-06T13:47:15Z" finished-at="2016-06-06T13:47:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73" started-at="2016-06-06T13:47:15Z" finished-at="2016-06-06T13:47:15Z">
+      <class name="configurationDemo.TestLearnAutomation">
+        <test-method status="PASS" signature="testChrome()[pri:0, instance:configurationDemo.TestLearnAutomation@3b1d11]" name="testChrome" duration-ms="32" started-at="2016-06-06T19:17:15Z" finished-at="2016-06-06T19:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChrome -->
+      </class> <!-- configurationDemo.TestLearnAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

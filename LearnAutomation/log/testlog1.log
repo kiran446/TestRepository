@@ -1,0 +1,13 @@
+2016-05-25 00:00:05,681 [main] INFO Log4jLib - This is info
+2016-05-25 00:00:05,759 [main] WARN Log4jLib - This is warn
+2016-05-25 00:00:05,760 [main] ERROR Log4jLib - This is error
+2016-05-25 00:00:05,770 [main] FATAL Log4jLib - This is fatal
+2016-05-25 00:01:47,968 [main] INFO Log4jLib - This is info
+2016-05-25 00:01:48,299 [main] WARN Log4jLib - This is warn
+2016-05-25 00:01:48,307 [main] ERROR Log4jLib - This is error
+2016-05-25 00:01:48,323 [main] FATAL Log4jLib - This is fatal
+2016-05-25 00:07:31,196 [main] DEBUG Log4jLib - This is debug
+2016-05-25 00:07:31,257 [main] INFO Log4jLib - This is info
+2016-05-25 00:07:31,259 [main] WARN Log4jLib - This is warn
+2016-05-25 00:07:31,272 [main] ERROR Log4jLib - This is error
+2016-05-25 00:07:31,273 [main] FATAL Log4jLib - This is fatal
