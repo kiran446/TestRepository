@@ -44,6 +44,7 @@ public class TestLearnAutomation {
 	      //System.out.println(str);
 	      if(m.find()){
      		System.out.println("FAIL");
+     		System.out.println("hi kiran");
 //	      int count = 0;
 //	      while (m.find()) {
 //	         count = count+1;
